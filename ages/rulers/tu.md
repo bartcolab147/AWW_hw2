@@ -26,7 +26,7 @@ list:
   - name: İsa Çelebi
     dynasty: Ottoman
     year: 1402-1406
-    image: 100px-%C4%B0sa_%C3%87elebi.jpg
+    image: 100px-_C4_B0sa__C3_87elebi.jpg
 
   - name: Süleyman Çelebi
     dynasty: Ottoman
@@ -36,7 +36,7 @@ list:
   - name: Musa Çelebi
     dynasty: Ottoman
     year: 1411-1413
-    image: 120px-Paolo_Veronese_%28Nachfolger%29_-_Bildnis_des_Sultans_Moise_-_2238_-_Bavarian_State_Painting_Collections.jpg
+    image: 120px-Paolo_Veronese__28Nachfolger_29_-_Bildnis_des_Sultans_Moise_-_2238_-_Bavarian_State_Painting_Collections.jpg
 
   - name: Mehmed Çelebi
     dynasty: Ottoman
@@ -51,22 +51,22 @@ list:
   - name: Murad II
     dynasty: Ottoman
     year: 1421-1444
-    image: 120px-Paolo_Veronese_%28Nachfolger%29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg
+    image: 120px-Paolo_Veronese__28Nachfolger_29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg
 
   - name: Mehmed II
     dynasty: Ottoman
     year: 1444-1446
-    image: 100px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg
+    image: 100px-Bellini_2C_Gentile_-_Sultan_Mehmet_II.jpg
 
   - name: Murad II
     dynasty: Ottoman
     year: 1446-1451
-    image: 120px-Paolo_Veronese_%28Nachfolger%29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg
+    image: 120px-Paolo_Veronese__28Nachfolger_29_-_Sultan_Murad_II._-_2237_-_Bavarian_State_Painting_Collections.jpg
 
   - name: Mehmed II
     dynasty: Ottoman
     year: 1451-1481
-    image: 100px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg
+    image: 100px-Bellini_2C_Gentile_-_Sultan_Mehmet_II.jpg
 
   - name: Bayezid II
     dynasty: Ottoman
@@ -81,7 +81,7 @@ list:
   - name: Selim I
     dynasty: Ottoman
     year: 1512-1520
-    image: 120px-Nakka%C5%9F_Selim.jpg
+    image: 120px-Nakka_C5_9F_Selim.jpg
 
   - name: Suleiman I
     dynasty: Ottoman
@@ -106,7 +106,7 @@ list:
   - name: Ahmed I
     dynasty: Ottoman
     year: 1603-1617
-    image: 100px-%D8%B5%D9%88%D8%B1%D8%A9_%D9%84%D9%84%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D8%A3%D8%AD%D9%85%D8%AF_2013-12-19_09-18.jpg
+    image: 100px-_D8_B5_D9_88_D8_B1_D8_A9__D9_84_D9_84_D8_B4_D8_A7_D9_87_D8_B2_D8_A7_D8_AF_D9_87__D8_A3_D8_AD_D9_85_D8_AF_2013-12-19_09-18.jpg
 
   - name: Mustafa I
     dynasty: Ottoman
@@ -136,12 +136,12 @@ list:
   - name: Mehmed IV
     dynasty: Ottoman
     year: 1648-1687
-    image: 100px-Sultan_Mehmed_IV_%282%29.jpg
+    image: 100px-Sultan_Mehmed_IV__282_29.jpg
 
   - name: Suleiman II
     dynasty: Ottoman
     year: 1687-1691
-    image: 120px-S%C3%BCleyman_II.jpg
+    image: 120px-S_C3_BCleyman_II.jpg
 
   - name: Ahmed II
     dynasty: Ottoman
@@ -161,7 +161,7 @@ list:
   - name: Mahmud I
     dynasty: Ottoman
     year: 1730-1754
-    image: 120px-Sultan_Mahmud_I_%E2%80%93_Jean_Baptiste_Vanmour.jpg_%28cropped%29.jpg
+    image: 120px-Sultan_Mahmud_I__E2_80_93_Jean_Baptiste_Vanmour.jpg__28cropped_29.jpg
 
   - name: Osman III
     dynasty: Ottoman
@@ -176,7 +176,7 @@ list:
   - name: Abdul Hamid I
     dynasty: Ottoman
     year: 1774-1789
-    image: 100px-Portrait_of_Abd%C3%BClhamid_I_of_the_Ottoman_Empire.jpg
+    image: 100px-Portrait_of_Abd_C3_BClhamid_I_of_the_Ottoman_Empire.jpg
 
   - name: Selim III
     dynasty: Ottoman
@@ -206,17 +206,17 @@ list:
   - name: Murad V
     dynasty: Ottoman
     year: 1876
-    image: 95px-Sultan_Murad_V.%2C_1876.jpg
+    image: 95px-Sultan_Murad_V._2C_1876.jpg
 
   - name: Abdul Hamid II
     dynasty: Ottoman
     year: 1876-1909
-    image: 100px-Sultan_Gazi_Abd%C3%BCl_Hamid_II_-_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.png
+    image: 100px-Sultan_Gazi_Abd_C3_BCl_Hamid_II_-__D8_A7_D9_84_D8_B3_D9_84_D8_B7_D8_A7_D9_86__D8_A7_D9_84_D8_BA_D8_A7_D8_B2_D9_8A__D8_B9_D8_A8_D8_AF__D8_A7_D9_84_D8_AD_D9_85_D9_8A_D8_AF__D8_A7_D9_84_D8_AB_D8_A7_D9_86_D9_8A.png
 
   - name: Mehmed V
     dynasty: Ottoman
     year: 1909-1918
-    image: 100px-Sultan_Muhammed_Chan_V.%2C_Kaiser_der_Osmanen_1915_C._Pietzner.jpg
+    image: 100px-Sultan_Muhammed_Chan_V._2C_Kaiser_der_Osmanen_1915_C._Pietzner.jpg
 
   - name: Mehmed VI
     dynasty: Ottoman
