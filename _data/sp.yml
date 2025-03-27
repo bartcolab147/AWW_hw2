@@ -1,0 +1,13 @@
+country: Spain
+
+summary: |
+  Welcome to our site on Spain's history, a nation shaped by its location on the Iberian Peninsula and its rich cultural heritage. From ancient civilizations to its role in global exploration and empire-building, Spain's story is filled with pivotal events. Discover how these milestones have contributed to the Spain we know today.
+
+short_history: |
+  The history of Spain dates back to the pre-Roman peoples of the Mediterranean coast of the Iberian Peninsula. Over time, Greeks, Carthaginians, and Romans colonized the peninsula, which the Romans called Hispania. Germanic tribes invaded in the 4th and 5th centuries AD, ending Roman rule. In 711, the Umayyad Caliphate conquered most of the region, which became known as Al-Andalus. Christian kingdoms in the north gradually expanded their control, starting the Reconquista. The marriage of Isabella I of Castile and Ferdinand II of Aragon in 1469 unified the crowns, laying the foundation for modern Spain. 1492 was a pivotal year, marked by the conquest of Granada and Christopher Columbus's voyage to the New World. Spain then began building a vast overseas empire in the Americas.
+
+ages:
+  - year: 1450
+    name: "Age of Exploration"
+  - year: 1800
+    name: "Age of Bourbon Reforms"

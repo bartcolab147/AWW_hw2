@@ -1,0 +1,17 @@
+country: Great Britain
+
+summary: |
+  Welcome to our site on Great Britain's history, where you can explore the rich and complex past of a nation that has shaped the world. From the Roman invasions to the Industrial Revolution and beyond, Great Britain's story is filled with pivotal events, influential figures, and cultural transformations. Discover how these historical milestones have contributed to the Great Britain we know today.
+
+short_history: |
+  The history of Great Britain is a tale of invasions, unions, and imperial expansion. It began with Roman invasions in 55 and 54 BC, followed by a sustained attempt to conquer Britain in 43 AD under Emperor Claudius. After the Romans, Anglo-Saxon kingdoms emerged, gradually covering present-day England. The Norman Conquest in 1066 marked a significant turning point. England united with Scotland in 1707 to form Great Britain. The 18th and 19th centuries saw the growth of the British Empire, accompanied by the Industrial Revolution.
+
+ages:
+  - year: 1450
+    name: "Age of Discovery"
+  - year: 1600
+    name: "Age of Absolutism"
+  - year: 1700
+    name: "Age of Enlightment"
+  - year: 1800
+    name: "Age of Revolution"

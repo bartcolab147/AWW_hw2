@@ -1,0 +1,127 @@
+---
+---
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Worldclass History</title>
+    <link rel="stylesheet" href="../../../assets/main2.css" />
+  </head>
+  <body class="bg-emerald-100">
+    <div class="container mx-auto">
+      <header>
+        <h1>Europe in {{page.year}}</h1>
+      </header>
+
+      <main>
+        <div class="relative">
+          {% for pin in page.map_data %}
+          <a
+            href="../{{ pin.link }}"
+            class="map-pin"
+            style="top: calc({{ pin.label_top }}%); left: calc({{ pin.label_left }}%)"
+          >
+            <img
+              width="28"
+              height="28"
+              src="../../../img/pin.svg"
+              class="animate-bounce"
+              alt="pin"
+            />
+            <p class="text-white text-xl font-bold">{{ pin.country }}</p>
+          </a>
+          {% endfor %}
+
+          <img
+            src="../../../img/europe{{page.year}}.png"
+            alt="Map of Europe in {{page.year}}"
+            usemap="#europe{{page.year}}"
+            class="w-full border-emerald-600 border-5 rounded-xl"
+            id="responsive-map"
+          />
+
+          <map name="europe{{page.year}}">
+            {% for area in page.map_data %}
+            <area
+              shape="rect"
+              data-coords="{{area.coords}}"
+              href="../{{area.link}}"
+              alt="{{area.country}} {{page.year}}"
+            />
+            {% endfor %}
+          </map>
+
+          <script>
+            function updateImageMap() {
+              const img = document.getElementById("responsive-map");
+              const map = document.querySelector(
+                'map[name="europe{{page.year}}"]'
+              );
+              const areas = map.querySelectorAll("area");
+
+              const imgWidth = img.offsetWidth;
+              const imgHeight = img.offsetHeight;
+
+              areas.forEach((area) => {
+                // Get original percentage-based coordinates from data attributes
+                const coords = area.dataset.coords.split(",").map(Number);
+
+                // Calculate pixel-based coordinates relative to the current image size
+                if (area.shape === "rect") {
+                  const [x1, y1, x2, y2] = coords;
+                  area.coords = [
+                    (x1 / 100) * imgWidth,
+                    (y1 / 100) * imgHeight,
+                    (x2 / 100) * imgWidth,
+                    (y2 / 100) * imgHeight,
+                  ].join(",");
+                }
+              });
+            }
+
+            // Update the image map whenever the window is resized
+            window.addEventListener("resize", updateImageMap);
+
+            // Initial update
+            window.addEventListener("load", updateImageMap);
+          </script>
+        </div>
+        <p>{{page.short_desc}}</p>
+
+        <div class="py-8 mx-auto">
+          <h1 class="text-2xl font-bold mb-4">Historical Data</h1>
+
+          <div class="overflow-x-auto rounded-lg">
+            <table class="data-table">
+              <thead>
+                <tr class="bg-gray-100 border-b">
+                  <th class="py-2 px-4">Country/Region</th>
+                  <th class="py-2 px-4">Population</th>
+                  <th class="py-2 px-4">Military Size</th>
+                  <th class="py-2 px-4">Area (km^2)</th>
+                  <th class="py-2 px-4">Administrative Type</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for item in page.historical_data %}
+                <tr class="data-table-row">
+                  <td class="py-2 px-4">{{ item.country }}</td>
+                  <td class="py-2 px-4">{{ item.population }}</td>
+                  <td class="py-2 px-4">{{ item.military_size }}</td>
+                  <td class="py-2 px-4">{{ item.area }}</td>
+                  <td class="py-2 px-4">{{ item.admin_type }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

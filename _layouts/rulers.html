@@ -1,0 +1,45 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Worldclass History</title>
+    <link rel="stylesheet" href="../../../assets/main2.css" />
+  </head>
+  <body class="bg-emerald-100 p-4 text-gray-800">
+    <!-- Header -->
+    <header class="bg-indigo-600 text-white py-6 rounded-full shadow-lg">
+      <h1 class="text-4xl font-bold text-center rounded-full">
+        Rulers of {{ page.country }}
+      </h1>
+    </header>
+
+    <!-- Main Content -->
+    <main class="mx-auto mt-8 p-4">
+      <div class="flex flex-wrap justify-center gap-4">
+        {% for ruler in page.list %}
+        <div class="rulers-container">
+          <div class="flex-col self-start">
+            <img
+              src="../../../img/rulers/{{page.short}}/{{ ruler.image }}"
+              alt="{{ ruler.name }}"
+              class="w-full h-52 object-cover object-[50%_10%]"
+            />
+          </div>
+          <div class="p-4">
+            <h2 class="font-bold text-lg">{{ ruler.name }}</h2>
+            <p class="text-sm text-gray-600">{{ ruler.dynasty }}</p>
+            <p class="text-sm">{{ ruler.year }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </main>
+
+    <!-- Footer -->
+    {% include footer.html %}
+  </body>
+</html>

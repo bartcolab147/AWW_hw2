@@ -1,0 +1,22 @@
+country: France
+
+summary:
+  Welcome to our site on French history, where you can explore the rich and diverse past of one of Europe's most influential nations.
+  From the ancient Gauls to the modern Fifth Republic, France has been shaped by pivotal events such as the French Revolution, the rise and fall of empires, and significant roles in both World Wars. Discover how these historical milestones have contributed to the France we know today.
+
+short_history:
+  French history is a rich tapestry of political, cultural, and social evolution. It begins with the ancient Gauls and their conquest by the Romans, who left a lasting legacy in language and law. The Kingdom of France emerged in the 9th century, with significant events like the Hundred Years War and the rise of Joan of Arc shaping French identity.<br>
+
+  The Renaissance saw France become a centralized monarchy under the Bourbons, marked by religious conflicts and the eventual Edict of Nantes. The French Revolution in 1789 ended the monarchy, leading to the Reign of Terror and the rise of Napoleon Bonaparte, who expanded French influence across Europe.<br>
+
+  Modern France has been shaped by its role in World War II, transitioning from the Fourth to the Fifth Republic under Charles de Gaulle in 1958. Today, France is a major economic and cultural power, deeply involved in European integration. Explore our site to learn more about these pivotal moments and figures that have defined French history.
+
+ages:
+  - year: 1450
+    name: "Age of Discovery"
+  - year: 1600
+    name: "Age of Absolutism"
+  - year: 1700
+    name: "Age of Enlightment"
+  - year: 1800
+    name: "Age of Revolution"

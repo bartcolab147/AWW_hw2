@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Worldclass History</title>
+    <link rel="stylesheet" href="assets/main2.css" />
+  </head>
+  <body class="bg-emerald-100 p-4 text-gray-800">
+    <h1>Worldclass History</h1>
+    <main class="container mx-auto">
+      <p>{{ page.introduction }}</p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-5">
+        {% for age in page.ages %}
+        <div class="map-grid-container">
+          <a href="ages/y{{ age.year }}/age/">
+            <div class="flex-col w-fll">
+              <img
+                src="../../../img/europe{{age.year}}.png"
+                alt="Map of Europe in {{age.year}}"
+              />
+            </div>
+            <div class="p-4">
+              <h2 class="font-bold text-lg">{{ age.name }}</h2>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </main>
+  </body>
+</html>

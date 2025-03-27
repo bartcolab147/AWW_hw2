@@ -1,0 +1,11 @@
+country: Ottoman Empire
+
+summary: |
+  Welcome to our site on the Ottoman Empire, a powerful state that controlled Southeast Europe, Western Asia, and North Africa from the 14th century. Explore the empire's origins, expansion, and cultural impact, from its founding by Osman I to its peak under Suleiman the Magnificent.
+
+short_history: |
+  Founded around 1299 by Osman I in Anatolia, the Ottoman Empire expanded through conquest, ending the Byzantine Empire with the capture of Constantinople in 1453. Under leaders like Mehmed II and Suleiman the Magnificent, the empire became a global power, controlling vital trade routes and diverse territories. The empire granted autonomy to various religious communities and saw its peak in the 16th and 17th centuries, but later faced internal stagnation and territorial losses. The Ottoman Empire dissolved after World War I, replaced by the Republic of Turkey in 1923.
+
+ages:
+  - year: 1600
+    name: "Age of Imperial Zenith"

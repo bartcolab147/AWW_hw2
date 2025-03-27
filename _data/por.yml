@@ -1,0 +1,11 @@
+country: Portugal
+
+summary: |
+  Welcome to our site on Portugal's history, a nation with a rich seafaring past and significant influence on global exploration. From its establishment in 1143 to its pivotal role in the Age of Discovery, Portugal's story is filled with exploration, cultural heritage, and resilience. Explore the historical milestones that have shaped modern Portugal.
+
+short_history: |
+  Portugal's history dates back to the inhabitation of the Iberian Peninsula around 400,000 years ago. The region was later controlled by the Romans, followed by Germanic tribes. In 1143, Portugal was founded, becoming the oldest nation-state in Europe. Afonso Henriques declared himself the first King of Portugal, a status recognized by the Treaty of Zamora and later confirmed by Pope Alexander III. During the 15th and 16th centuries, Portugal spearheaded European maritime discoveries, establishing a vast empire and global commercial network. In 1910, a revolution established the Portuguese Republic, replacing the monarchy.
+
+ages:
+  - year: 1450
+    name: "Age of Discovery"

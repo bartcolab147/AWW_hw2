@@ -1,0 +1,11 @@
+country: Sweden
+
+summary: |
+  Welcome to our site on the history of Sweden, a nation with a rich past stretching back to the Stone Age. From its time as a Viking power to its modern-day neutrality, Sweden's story is one of transformation and innovation. Explore key events that have shaped this Scandinavian nation.
+
+short_history: |
+  The history of Sweden dates back to around 12,000 BC, following the retreat of the Northern Polar Ice Caps. Early inhabitants used stone tools for hunting and gathering. Swedish recorded history began in the late 10th century. Sweden, Denmark, and Norway formed the Kalmar Union in the late 14th century, but Sweden broke away in the early 16th century under Gustav Vasa, who established the Lutheran Church in Sweden. In the 17th century, Sweden became a major European power by gaining control over the Baltic region. Sweden's power declined in the 18th century, and it lost Finland to Russia in 1809. Since 1814, Sweden has maintained a policy of neutrality, and it joined NATO in March 2024.
+
+ages:
+  - year: 1600
+    name: "Age of Great Power"
