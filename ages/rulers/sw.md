@@ -11,12 +11,12 @@ list:
   - name: Sverker I
     dynasty: Sverker
     year: c. 1132-1156
-    image: 120px-Sweartgar_I_of_Sweden_relief_2009_Heda__C3_96desh_C3_B6g__28crop_29.jpg
+    image: 120px-Sweartgar_I_of_Sweden_relief_2009_Heda_C396deshC3B6g_28crop29.jpg
 
   - name: Eric IX
     dynasty: Erik
     year: c. 1156-1160
-    image: 80px-Eric_the_Holy_of_Sweden__28crop_29.jpg
+    image: 80px-Eric_the_Holy_of_Sweden_28crop29.jpg
 
   - name: Charles VII
     dynasty: Sverker
@@ -31,12 +31,12 @@ list:
   - name: Magnus III
     dynasty: Bjälbo
     year: 1280-1290
-    image: 120px-Magnus_III_Barnlock_of_Sweden_as_Duke_bust_2009_Skara__282_29.jpg
+    image: 120px-Magnus_III_Barnlock_of_Sweden_as_Duke_bust_2009_Skara_28229.jpg
 
   - name: Birger
     dynasty: Bjälbo
     year: 1290-1318
-    image: 100px-Birger_of_Sweden__281280_29_c_1322.jpg
+    image: 100px-Birger_of_Sweden_28128029_c_1322.jpg
 
   - name: Magnus IV
     dynasty: Bjelbo
@@ -61,7 +61,7 @@ list:
   - name: Eric XIII
     dynasty: Pomerania
     year: 1412-1439
-    image: 100px-Erik-af-Pommern_1424__28cropped_29.jpg
+    image: 100px-Erik-af-Pommern_1424_28cropped29.jpg
 
   - name: Christopher
     dynasty: Wittelsbach
@@ -76,7 +76,7 @@ list:
   - name: Christian I
     dynasty: Oldenburg
     year: 1457-1464
-    image: 100px-Christian_I_of_Denmark_2C_Norway__26_Sweden_1440s.jpg
+    image: 100px-Christian_I_of_Denmark2C_Norway_26_Sweden_1440s.jpg
 
   - name: Charles VIII
     dynasty: Bonde
@@ -96,7 +96,7 @@ list:
   - name: Christian II
     dynasty: Oldenburg
     year: 1520-1521
-    image: 100px-Lucas_Cranach__28I_29_-_Bildnis_Christians_II._2C_K_C3_B6nig_von_D_C3_A4nemark__28MbK_2C_Leipzig_29.jpg
+    image: 100px-Lucas_Cranach_28I29_-_Bildnis_Christians_II.2C_KC3B6nig_von_DC3A4nemark_28MbK2C_Leipzig29.jpg
 
   - name: Gustav I
     dynasty: Vasa
@@ -106,7 +106,7 @@ list:
   - name: Eric XIV
     dynasty: Vasa
     year: 1560-1568
-    image: lossy-page1-100px-Erik_XIV_king_of_Sweden_1533-1577__28Domenicus_Verwilt_29_-_Nationalmuseum_-_21667.tif.jpg
+    image: lossy-page1-100px-Erik_XIV_king_of_Sweden_1533-1577_28Domenicus_Verwilt29_-_Nationalmuseum_-_21667.tif.jpg
 
   - name: John III
     dynasty: Vasa
@@ -116,7 +116,7 @@ list:
   - name: Sigismund
     dynasty: Vasa
     year: 1592-1599
-    image: 100px-Sigismund_III_of_Poland-Lithuania_and_Sweden__28Martin_Kober_29.jpg
+    image: 100px-Sigismund_III_of_Poland-Lithuania_and_Sweden_28Martin_Kober29.jpg
 
   - name: Charles IX
     dynasty: Vasa
@@ -126,22 +126,22 @@ list:
   - name: Gustav II Adolf
     dynasty: Vasa
     year: 1611-1632
-    image: 100px-Attributed_to_Jacob_Hoefnagel_-_Gustavus_Adolphus_2C_King_of_Sweden_1611-1632_-_Google_Art_Project.jpg
+    image: 100px-Attributed_to_Jacob_Hoefnagel_-_Gustavus_Adolphus2C_King_of_Sweden_1611-1632_-_Google_Art_Project.jpg
 
   - name: Christina
     dynasty: Vasa
     year: 1632-1654
-    image: 100px-Swedish_queen_Drottning_Kristina_portrait_by_S_C3_A9bastien_Bourdon_stor.jpg
+    image: 100px-Swedish_queen_Drottning_Kristina_portrait_by_SC3A9bastien_Bourdon_stor.jpg
 
   - name: Charles X Gustav
     dynasty: Palatinate-Zweibrücken
     year: 1654-1660
-    image: lossy-page1-100px-Portr_C3_A4tt_av_Karl_X_Gustav_av_Sverige_-_Skoklosters_slott_-_91437.tif.jpg
+    image: lossy-page1-100px-PortrC3A4tt_av_Karl_X_Gustav_av_Sverige_-_Skoklosters_slott_-_91437.tif.jpg
 
   - name: Charles XI
     dynasty: Palatinate-Zweibrücken
     year: 1660-1697
-    image: 100px-Charles_XI_of_Sweden__281691_29.jpg
+    image: 100px-Charles_XI_of_Sweden_28169129.jpg
 
   - name: Charles XII
     dynasty: Palatinate-Zweibrücken
@@ -161,7 +161,7 @@ list:
   - name: Adolf Frederick
     dynasty: Holstein-Gottorp
     year: 1751-1771
-    image: 100px-Adolph_Frederick_of_Sweden_c_1751_by_Gustaf_Lundberg__26_Jakob_Bj_C3_B6rck.jpg
+    image: 100px-Adolph_Frederick_of_Sweden_c_1751_by_Gustaf_Lundberg_26_Jakob_BjC3B6rck.jpg
 
   - name: Gustav III
     dynasty: Holstein-Gottorp
@@ -181,12 +181,12 @@ list:
   - name: Charles XIV John
     dynasty: Bernadotte
     year: 1818-1844
-    image: 100px-Nordgren_-_Portrait_de_Charles_Jean_Bernadotte_2C_roi_de_Su_C3_A8de.jpg
+    image: 100px-Nordgren_-_Portrait_de_Charles_Jean_Bernadotte2C_roi_de_SuC3A8de.jpg
 
   - name: Oscar I
     dynasty: Bernadotte
     year: 1844-1859
-    image: 120px-King_Oscar_I_of_Sweden__28cropped_29.jpg
+    image: 120px-King_Oscar_I_of_Sweden_28cropped29.jpg
 
   - name: Charles XV
     dynasty: Bernadotte
@@ -206,7 +206,7 @@ list:
   - name: Gustaf VI Adolf
     dynasty: Bernadotte
     year: 1950-1973
-    image: 100px-King_Gustaf_VI_Adolf_of_Sweden_FVMF.003289__28cropped_2_29.jpg
+    image: 100px-King_Gustaf_VI_Adolf_of_Sweden_FVMF.003289_28cropped_229.jpg
 
   - name: Carl XVI Gustaf
     dynasty: Bernadotte

@@ -11,7 +11,7 @@ list:
   - name: Sviatoslav I
     dynasty: Rurik Dynasty
     year: 945–972
-    image: 80px-_D0_A1_D0_B2_D1_8F_D1_82_D0_BE_D1_81_D0_BB_D0_B0_D0_B2_I__D0_A5_D1_80_D0_B0_D0_B1_D1_80_D1_8B_D0_B9_2C_-__D0_A6_D0_B0_D1_80_D1_81_D0_BA_D0_B8_D0_B9__D1_82_D0_B8_D1_82_D1_83_D0_BB_D1_8F_D1_80_D0_BD_D0_B8_D0_BA.png
+    image: 80px-D0A1D0B2D18FD182D0BED181D0BBD0B0D0B2_I_D0A5D180D0B0D0B1D180D18BD0B92C_-_D0A6D0B0D180D181D0BAD0B8D0B9_D182D0B8D182D183D0BBD18FD180D0BDD0B8D0BA.png
 
   - name: Yaropolk I
     dynasty: Rurik Dynasty
@@ -41,7 +41,7 @@ list:
   - name: Vseslav the Sorcerer
     dynasty: Rurik Dynasty
     year: 1068–1069
-    image: 120px-Jazep_Drazdovi_C4_8D._Usiasla_C5_AD.jpg
+    image: 120px-Jazep_DrazdoviC48D._UsiaslaC5AD.jpg
 
   - name: Sviatoslav II
     dynasty: Rurik Dynasty
@@ -91,7 +91,7 @@ list:
   - name: Iziaslav II
     dynasty: Monomakhs
     year: 1146–1149, 1150, 1151–1154
-    image: 120px-_D0_86_D0_B7_D1_8F_D1_81_D0_BB_D0_B0_D0_B2_II__D0_9F_D0_B0_D0_BD_D1_82_D0_B5_D0_BB_D0_B5_D0_B9_D0_BC_D0_BE_D0_BD.jpg
+    image: 120px-D086D0B7D18FD181D0BBD0B0D0B2_II_D09FD0B0D0BDD182D0B5D0BBD0B5D0B9D0BCD0BED0BD.jpg
 
   - name: Yuri I the Long Hands
     dynasty: Monomakhs
@@ -101,7 +101,7 @@ list:
   - name: Rostislav of Smolensk
     dynasty: Monomakhs
     year: 1154
-    image: 120px-_D0_98_D0_B7_D1_8F_D1_81_D0_BB_D0_B0_D0_B2__D0_BC_D1_81_D1_82_D0_B8_D1_81_D0_BB_D0_B0_D0_B2_D0_BE_D0_B2_D0_B8_D1_87.jpg
+    image: 120px-D098D0B7D18FD181D0BBD0B0D0B2_D0BCD181D182D0B8D181D0BBD0B0D0B2D0BED0B2D0B8D187.jpg
 
   - name: Rostislav
     dynasty: Monomakhs
@@ -121,7 +121,7 @@ list:
   - name: Andrey I the Pious
     dynasty: Monomakhs
     year: 1169–1170
-    image: 80px-_D0_9A_D0_BD_D1_8F_D0_B7_D1_8C__D0_90_D0_BD_D0_B4_D1_80_D0_B5_D0_B9__D0_91_D0_BE_D0_B3_D0_BE_D0_BB_D1_8E_D0_B1_D1_81_D0_BA_D0_B8_D0_B9.jpg
+    image: 80px-D09AD0BDD18FD0B7D18C_D090D0BDD0B4D180D0B5D0B9_D091D0BED0B3D0BED0BBD18ED0B1D181D0BAD0B8D0B9.jpg
 
   - name: Mikhalko
     dynasty: Monomakhs
@@ -136,12 +136,12 @@ list:
   - name: Yuri II
     dynasty: Monomakhs
     year: 1212–1216, 1218–1238
-    image: 120px-Flight_of_Yuri_II_of_Vladimir__28Boris_Chorikov_29.jpg
+    image: 120px-Flight_of_Yuri_II_of_Vladimir_28Boris_Chorikov29.jpg
 
   - name: Konstantin of Rostov
     dynasty: Monomakhs
     year: 1216–1218
-    image: 120px-Benevolence_of_the_Grand_Duke_Constantine__28Boris_Chorikov_29.jpg
+    image: 120px-Benevolence_of_the_Grand_Duke_Constantine_28Boris_Chorikov29.jpg
 
   - name: Yaroslav II
     dynasty: Monomakhs
@@ -196,7 +196,7 @@ list:
   - name: Dmitry the Fearsome Eyes
     dynasty: Monomakhs
     year: 1322–1326
-    image: 120px-Facial_Chronicle_-_b.07_2C_p.247_-_Murder_of_Yuri_of_Moscow.jpg
+    image: 120px-Facial_Chronicle_-_b.072C_p.247_-_Murder_of_Yuri_of_Moscow.jpg
 
   - name: Alexander of Tver
     dynasty: Monomakhs
@@ -276,12 +276,12 @@ list:
   - name: Boris
     dynasty: Godunov
     year: 1598–1605
-    image: 120px-Boris_Godunov_by_anonim__2817th_c._2C_GIM_29.jpg
+    image: 120px-Boris_Godunov_by_anonim_2817th_c.2C_GIM29.jpg
 
   - name: Feodor II
     dynasty: Godunov
     year: 1605
-    image: 80px-Feodor_II_of_Russia_2C_17th_century.png
+    image: 80px-Feodor_II_of_Russia2C_17th_century.png
 
   - name: False Dmitry I
     dynasty: N/A
@@ -301,12 +301,12 @@ list:
   - name: Michael
     dynasty: Romanov
     year: 1613–1645
-    image: 80px-Michael_of_Russia_by_anonymous__281772_2C_Kremlin_29.JPG
+    image: 80px-Michael_of_Russia_by_anonymous_2817722C_Kremlin29.JPG
 
   - name: Alexis the Quietest
     dynasty: Romanov
     year: 1645–1676
-    image: 80px-Alexis_I_of_Russia__281670-1680s_2C_GIM_29.jpg
+    image: 80px-Alexis_I_of_Russia_281670-1680s2C_GIM29.jpg
 
   - name: Feodor III
     dynasty: Romanov
@@ -336,17 +336,17 @@ list:
   - name: Peter II
     dynasty: Romanov
     year: 1727–1730
-    image: 120px-Petr_II_by_J.Ludden__281728_2C_Russian_museum_29.jpg
+    image: 120px-Petr_II_by_J.Ludden_2817282C_Russian_museum29.jpg
 
   - name: Anna
     dynasty: Romanov
     year: 1730–1740
-    image: 120px-Posthumous_portrait_of_Anna_of_Russia_by_H.Buchholz__28end_18_c._29.jpg
+    image: 120px-Posthumous_portrait_of_Anna_of_Russia_by_H.Buchholz_28end_18_c.29.jpg
 
   - name: Ivan VI
     dynasty: Romanov
     year: 1740–1741
-    image: 80px-Ivan_VI_Antonovich__28Oranienbaum_29.jpg
+    image: 80px-Ivan_VI_Antonovich_28Oranienbaum29.jpg
 
   - name: Elizabeth
     dynasty: Romanov
@@ -356,12 +356,12 @@ list:
   - name: Peter III
     dynasty: Romanov
     year: 1762
-    image: 80px-Peter_III_by_A.Antropov__281762_2C_Tretyakov_gallery_29.jpg
+    image: 80px-Peter_III_by_A.Antropov_2817622C_Tretyakov_gallery29.jpg
 
   - name: Catherine II the Great
     dynasty: Romanov
     year: 1762–1796
-    image: 80px-Vigilius_Eriksen__281722-82_29_-_Catherine_II__281729-96_29_2C_Empress_of_Russia_-_RCIN_404774_-_Royal_Collection.jpg
+    image: 80px-Vigilius_Eriksen_281722-8229_-_Catherine_II_281729-96292C_Empress_of_Russia_-_RCIN_404774_-_Royal_Collection.jpg
 
   - name: Paul I
     dynasty: Romanov
@@ -371,27 +371,27 @@ list:
   - name: Alexander I the Blessed
     dynasty: Romanov
     year: 1801–1825
-    image: 80px-Alexander_I_of_Russia_by_G.Dawe__28c._1818-1825_2C_Royal_coll._of_UK_29__28cropped_29.jpg
+    image: 80px-Alexander_I_of_Russia_by_G.Dawe_28c._1818-18252C_Royal_coll._of_UK29_28cropped29.jpg
 
   - name: Nicholas I
     dynasty: Romanov
     year: 1825–1855
-    image: 120px-Botman_-_Emperor_Nicholas_I__28cropped_29__28b_29.jpg
+    image: 120px-Botman_-_Emperor_Nicholas_I_28cropped29_28b29.jpg
 
   - name: Alexander II the Liberator
     dynasty: Romanov
     year: 1855–1881
-    image: 120px-Zar_Alexander_II__28cropped_29__28cropped_29.jpg
+    image: 120px-Zar_Alexander_II_28cropped29_28cropped29.jpg
 
   - name: Alexander III the Peacemaker
     dynasty: Romanov
     year: 1881–1894
-    image: 80px-Alexander_III_of_Russia_27s_coronation_album_04__28Alexander_III_by_A.Sokolov_29.jpg
+    image: 80px-Alexander_III_of_Russia27s_coronation_album_04_28Alexander_III_by_A.Sokolov29.jpg
 
   - name: Saint Nicholas II
     dynasty: Romanov
     year: 1894–1917
-    image: 80px-Mikola_II__28cropped_29-2.jpg
+    image: 80px-Mikola_II_28cropped29-2.jpg
 
   - name: Michael Aleksandrovich
     dynasty: Romanov
@@ -401,10 +401,10 @@ list:
   - name: Nikolai Nikolaevich
     dynasty: Romanov
     year: N/A
-    image: 80px-_D0_9D_D0_B8_D0_BA_D0_BE_D0_BB_D0_B0_D0_B9__D0_9D_D0_B8_D0_BA_D0_BE_D0_BB_D0_B0_D0_B5_D0_B2_D0_B8_D1_87__D0_9C_D0_BB_D0_B0_D0_B4_D1_88_D0_B8_D0_B9_2C__D0_B4_D0_BE_1914.jpg
+    image: 80px-D09DD0B8D0BAD0BED0BBD0B0D0B9_D09DD0B8D0BAD0BED0BBD0B0D0B5D0B2D0B8D187_D09CD0BBD0B0D0B4D188D0B8D0B92C_D0B4D0BE_1914.jpg
 
   - name: Kirill Vladimirovich
     dynasty: Romanov
     year: N/A
-    image: 120px-_D0_92_D0_B5_D0_BB_D0_B8_D0_BA_D0_B8_D0_B9__D0_BA_D0_BD_D1_8F_D0_B7_D1_8C__D0_9A_D0_B8_D1_80_D0_B8_D0_BB_D0_BB__D0_92_D0_BB_D0_B0_D0_B4_D0_B8_D0_BC_D0_B8_D1_80_D0_BE_D0_B2_D0_B8_D1_87.jpg
+    image: 120px-D092D0B5D0BBD0B8D0BAD0B8D0B9_D0BAD0BDD18FD0B7D18C_D09AD0B8D180D0B8D0BBD0BB_D092D0BBD0B0D0B4D0B8D0BCD0B8D180D0BED0B2D0B8D187.jpg
 ---

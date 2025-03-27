@@ -21,7 +21,7 @@ list:
   - name: Philip I
     dynasty: Habsburg
     year: 1504-1506
-    image: 80px-Juan_de_Flandes_2C_Kunsthistorisches_Museum_Wien_2C_Gem_C3_A4ldegalerie_-_Philipp_der_Sch_C3_B6ne__281478-1506_29_-_GG_3872.jpg
+    image: 80px-Juan_de_Flandes2C_Kunsthistorisches_Museum_Wien2C_GemC3A4ldegalerie_-_Philipp_der_SchC3B6ne_281478-150629_-_GG_3872.jpg
 
   - name: Philip IV
     dynasty: Habsburg
@@ -36,22 +36,22 @@ list:
   - name: Philip V
     dynasty: Bourbon
     year: 1700-1724
-    image: 80px-Felipe_V_de_Espa_C3_B1a.jpg
+    image: 80px-Felipe_V_de_EspaC3B1a.jpg
 
   - name: Louis I
     dynasty: Bourbon
     year: 1724
-    image: 80px-Luis_I_2C_pr_C3_ADncipe_de_Asturias2.jpg
+    image: 80px-Luis_I2C_prC3ADncipe_de_Asturias2.jpg
 
   - name: Philip V
     dynasty: Bourbon
     year: 1724-1746
-    image: 80px-Felipe_V_de_Espa_C3_B1a_2C_Rey_de.jpg
+    image: 80px-Felipe_V_de_EspaC3B1a2C_Rey_de.jpg
 
   - name: Ferdinand VI
     dynasty: Bourbon
     year: 1746-1759
-    image: 80px-Fernando_VI_de_Espa_C3_B1a__28Museo_del_Prado_29.jpg
+    image: 80px-Fernando_VI_de_EspaC3B1a_28Museo_del_Prado29.jpg
 
   - name: Charles III
     dynasty: Bourbon
@@ -66,7 +66,7 @@ list:
   - name: Ferdinand VII
     dynasty: Bourbon
     year: 1808
-    image: 80px-Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state__281815_29_-_Prado.jpg
+    image: 80px-Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state_28181529_-_Prado.jpg
 
   - name: Joseph I
     dynasty: Bonaparte
@@ -76,22 +76,22 @@ list:
   - name: Ferdinand VII
     dynasty: Bourbon
     year: 1813-1833
-    image: 120px-Fernando_VII_-_Vicente_L_C3_B3pez.jpg
+    image: 120px-Fernando_VII_-_Vicente_LC3B3pez.jpg
 
   - name: Isabella II
     dynasty: Bourbon
     year: 1833-1868
-    image: 120px-Queen_Isabella_II_of_Spain__28Winterhalter_29.jpg
+    image: 120px-Queen_Isabella_II_of_Spain_28Winterhalter29.jpg
 
   - name: Amadeo I
     dynasty: Savoy
     year: 1870-1873
-    image: 80px-Amadeo_I_2C_rey_de_Espa_C3_B1a.jpg
+    image: 80px-Amadeo_I2C_rey_de_EspaC3B1a.jpg
 
   - name: Alfonso XII
     dynasty: Bourbon
     year: 1874-1885
-    image: 120px-Retrato_del_rey_Alfonso_XII__28Museo_del_Prado_29.jpg
+    image: 120px-Retrato_del_rey_Alfonso_XII_28Museo_del_Prado29.jpg
 
   - name: Alfonso XIII
     dynasty: Bourbon

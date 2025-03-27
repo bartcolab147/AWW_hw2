@@ -6,12 +6,12 @@ list:
   - name: Albert
     dynasty: Saxe-Coburg and Gotha
     year: 1841-1910
-    image: 120px-Lucas_Cranach_d._C3_84._-_Bildnis_des_Markgrafen_Albrecht_von_Brandenburg-Ansbach__28Herzog_Anton_Ulrich-Museum_29.jpg
+    image: 120px-Lucas_Cranach_d.C384._-_Bildnis_des_Markgrafen_Albrecht_von_Brandenburg-Ansbach_28Herzog_Anton_Ulrich-Museum29.jpg
 
   - name: Albert Frederick
     dynasty: Hohenzollern
     year: 1553-1618
-    image: 80px-Portrait_of_Albert_Frederick_2C_Duke_of_Prussia.jpg
+    image: 80px-Portrait_of_Albert_Frederick2C_Duke_of_Prussia.jpg
 
   - name: John Sigismund
     dynasty: Hohenzollern
@@ -26,12 +26,12 @@ list:
   - name: Fred. William
     dynasty: Hohenzollern
     year: 1620-1688
-    image: 120px-Frans_Luycx_-_Frederick_William_2C_Elector_of_Brandenburg_2C_at_three-quarter-length.jpg
+    image: 120px-Frans_Luycx_-_Frederick_William2C_Elector_of_Brandenburg2C_at_three-quarter-length.jpg
 
   - name: Frederick I
     dynasty: Hohenzollern
     year: 1657-1713
-    image: 80px-Frederick_I_of_Prussia__28cropped_29.jpg
+    image: 80px-Frederick_I_of_Prussia_28cropped29.jpg
 
   - name: Frederick I
     dynasty: Hohenzollern
@@ -61,7 +61,7 @@ list:
   - name: Frederick William IV
     dynasty: Hohenzollern
     year: 1795-1861
-    image: 80px-Friedrich_Wilhelm_IV_of_Prussia__281847_29.jpg
+    image: 80px-Friedrich_Wilhelm_IV_of_Prussia_28184729.jpg
 
   - name: William I
     dynasty: Hohenzollern
