@@ -26,7 +26,7 @@ map_data:
     link: sw/timeline
     label_top: 20
     label_left: 42.5
-    coords: "45,55,55,75"
+    coords: "30,0,60,40"
 
 historical_data:
   - country: France
