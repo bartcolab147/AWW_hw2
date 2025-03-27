@@ -3,32 +3,32 @@ layout: age
 year: 1800
 map_data:
   - country: France
-    link: fr/timeline/
+    link: fr/timeline
     label_top: 60
     label_left: 20
     coords: "15,55,35,80"
   - country: Great Britain
-    link: gb/timeline/
+    link: gb/timeline
     label_top: 46.5
     label_left: 5.5
     coords: "10,27.5,22.5,54"
   - country: Austria
-    link: au/timeline/
+    link: au/timeline
     label_top: 60
     label_left: 47.5
     coords: "45,55,70,75"
   - country: Russia
-    link: ru/timeline/
+    link: ru/timeline
     label_top: 32.5
     label_left: 80
     coords: "65,20,100,75"
   - country: Prussia
-    link: pr/timeline/
+    link: pr/timeline
     label_top: 44
     label_left: 47.5
     coords: "40,37.5,60,53"
   - country: Spain
-    link: sp/timeline/
+    link: sp/timeline
     label_top: 85
     label_left: 9
     coords: "10,70,22.5,95"

@@ -3,27 +3,27 @@ layout: age
 year: 1600
 map_data:
   - country: France
-    link: fr/timeline/
+    link: fr/timeline
     label_top: 60
     label_left: 20
     coords: "17.5,55,32.5,80"
   - country: England
-    link: gb/timeline/
+    link: gb/timeline
     label_top: 46.5
     label_left: 12.5
     coords: "7.5,32.5,22.5,54"
   - country: Austria
-    link: au/timeline/
+    link: au/timeline
     label_top: 60
     label_left: 47.5
     coords: "45,55,55,75"
   - country: Ottoman Empire
-    link: tu/timeline/
+    link: tu/timeline
     label_top: 87.5
     label_left: 72.5
     coords: "45,55,55,75"
   - country: Sweden
-    link: sw/timeline/
+    link: sw/timeline
     label_top: 20
     label_left: 42.5
     coords: "45,55,55,75"

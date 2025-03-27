@@ -3,27 +3,27 @@ layout: age
 year: 1700
 map_data:
   - country: France
-    link: fr/timeline/
+    link: fr/timeline
     label_top: 60
     label_left: 20
     coords: "12.5,55,32.5,80"
   - country: England
-    link: gb/timeline/
+    link: gb/timeline
     label_top: 46.5
     label_left: 12.5
     coords: "5,27.5,22.5,54"
   - country: Austria
-    link: au/timeline/
+    link: au/timeline
     label_top: 60
     label_left: 47.5
     coords: "45,55,70,75"
   - country: Russia
-    link: ru/timeline/
+    link: ru/timeline
     label_top: 32.5
     label_left: 85
     coords: "80,10,100,60"
   - country: Prussia
-    link: pr/timeline/
+    link: pr/timeline
     label_top: 44
     label_left: 45
     coords: "40,37.5,60,53"

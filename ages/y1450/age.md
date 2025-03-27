@@ -3,22 +3,22 @@ layout: age
 year: 1450
 map_data:
   - country: France
-    link: fr/timeline/
+    link: fr/timeline
     label_top: 60
     label_left: 20
     coords: "17.5,55,32.5,80"
   - country: England
-    link: gb/timeline/
+    link: gb/timeline
     label_top: 46.5
     label_left: 12.5
     coords: "7.5,32.5,22.5,54"
   - country: Portugal
-    link: por/timeline/
+    link: por/timeline
     label_top: 88.5
     label_left: 3
     coords: "3,80,8,95"
   - country: Castile
-    link: sp/timeline/
+    link: sp/timeline
     label_top: 85
     label_left: 9
     coords: "10,75,22.5,100"
