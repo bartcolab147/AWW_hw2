@@ -91,7 +91,7 @@ list:
   - name: Edgar Ætheling
     dynasty: Wessex
     year: 1066
-    image: 100px-Edgar_the_%C3%86theling.jpg
+    image: 100px-Edgar_the__C3_86theling.jpg
 
   - name: William I the Conqueror
     dynasty: Normandy
@@ -131,7 +131,7 @@ list:
   - name: John
     dynasty: Plantagenet
     year: 1199
-    image: 120px-John_of_England_%28John_Lackland%29.jpg
+    image: 120px-John_of_England__28John_Lackland_29.jpg
 
   - name: Louis
     dynasty: Capetian
@@ -151,22 +151,22 @@ list:
   - name: Edward II
     dynasty: Plantagenet
     year: 1307
-    image: 75px-Edward_II%2C_King_of_England_%28Bodleian_Library_MS_Rawlinson_C_292%2C_folio_105r%29.jpg
+    image: 75px-Edward_II_2C_King_of_England__28Bodleian_Library_MS_Rawlinson_C_292_2C_folio_105r_29.jpg
 
   - name: Edward III
     dynasty: Plantagenet
     year: 1327
-    image: 100px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg
+    image: 100px-Edward_III_of_England__28Order_of_the_Garter_29.jpg
 
   - name: Richard II
     dynasty: Plantagenet
     year: 1377
-    image: 100px-The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg
+    image: 100px-The_Westminster_Portrait_of_Richard_II_of_England__281390s_29.jpg
 
   - name: Henry IV
     dynasty: Lancaster
     year: 1399
-    image: 120px-Illumination_of_Henry_IV_%28cropped%29.jpg
+    image: 120px-Illumination_of_Henry_IV__28cropped_29.jpg
 
   - name: Henry V
     dynasty: Lancaster
@@ -176,7 +176,7 @@ list:
   - name: Henry VI
     dynasty: Lancaster
     year: 1422
-    image: 100px-Henry_VI_of_England%2C_Shrewsbury_book.jpg
+    image: 100px-Henry_VI_of_England_2C_Shrewsbury_book.jpg
 
   - name: Edward IV
     dynasty: York
@@ -186,7 +186,7 @@ list:
   - name: Henry VI
     dynasty: Lancaster
     year: 1470
-    image: 100px-Henry_VI_of_England%2C_Shrewsbury_book.jpg
+    image: 100px-Henry_VI_of_England_2C_Shrewsbury_book.jpg
 
   - name: Edward IV
     dynasty: York
@@ -206,7 +206,7 @@ list:
   - name: Henry VII
     dynasty: Tudor
     year: 1485
-    image: 100px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg
+    image: 100px-Enrique_VII_de_Inglaterra_2C_por_un_artista_an_C3_B3nimo.jpg
 
   - name: Henry VIII
     dynasty: Tudor
@@ -231,7 +231,7 @@ list:
   - name: Philip
     dynasty: Habsburg
     year: 1554
-    image: 100px-Portrait_of_King_Philip_II_of_Spain_%281527%E2%80%931598%29%2C_by_Antonis_Mor_%28Bilbao_Fine_Arts_Museum%29.jpg
+    image: 100px-Portrait_of_King_Philip_II_of_Spain__281527_E2_80_931598_29_2C_by_Antonis_Mor__28Bilbao_Fine_Arts_Museum_29.jpg
 
   - name: Elizabeth I
     dynasty: Tudor
@@ -256,7 +256,7 @@ list:
   - name: Richard Cromwell
     dynasty: Cromwell
     year: 1658
-    image: 120px-Richard_Cromwell_%281626-1712%29%2C_by_Gerard_Soest.jpg
+    image: 120px-Richard_Cromwell__281626-1712_29_2C_by_Gerard_Soest.jpg
 
   - name: Charles II
     dynasty: Stuart
@@ -281,7 +281,5 @@ list:
   - name: Anne
     dynasty: Stuart
     year: 1702
-    image: 100px-Closterman%2C_John_-_Queen_Anne_-_NPG_215.jpg
-    
+    image: 100px-Closterman_2C_John_-_Queen_Anne_-_NPG_215.jpg
 ---
-

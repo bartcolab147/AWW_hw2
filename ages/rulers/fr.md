@@ -11,7 +11,7 @@ list:
   - name: Louis II "the Stammerer"
     dynasty: Carolingian
     year: 877–879
-    image: 120px-Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg
+    image: 120px-Denier_sous_Louis_II_dit_le_B_C3_A8gue.jpg
 
   - name: Louis III
     dynasty: Carolingian
@@ -51,7 +51,7 @@ list:
   - name: Louis IV "from Overseas"
     dynasty: Carolingian
     year: 936–954
-    image: 110px-Denier_Chinon_954%2C_obverse.jpg
+    image: 110px-Denier_Chinon_954_2C_obverse.jpg
 
   - name: Lothair
     dynasty: Carolingian
@@ -121,7 +121,7 @@ list:
   - name: Louis X "the Quarreller"
     dynasty: Capetian
     year: 1314–1316
-    image: 120px-Ludv%C3%ADk_X.png
+    image: 120px-Ludv_C3_ADk_X.png
 
   - name: John I "the Posthumous" Jean
     dynasty: Capetian
@@ -181,7 +181,7 @@ list:
   - name: Francis I "the Father of Letters" François
     dynasty: Valois-Angoulême
     year: 1515–1547
-    image: 110px-Fran%C3%A7ois_Ier_Louvre.jpg
+    image: 110px-Fran_C3_A7ois_Ier_Louvre.jpg
 
   - name: Henry II
     dynasty: Valois-Angoulême
@@ -191,7 +191,7 @@ list:
   - name: Francis II François
     dynasty: Valois-Angoulême
     year: 1559–1560
-    image: 110px-Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg
+    image: 110px-Portrait_du_roi_de_France_Fran_C3_A7ois_II.jpg
 
   - name: Charles IX
     dynasty: Valois-Angoulême

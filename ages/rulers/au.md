@@ -11,7 +11,7 @@ list:
   - name: Henry I the Strong
     dynasty: Babenberg
     year: 994–1018
-    image: 100px-Henry_I%2C_Margrave_of_Austria.jpg
+    image: 100px-Henry_I_2C_Margrave_of_Austria.jpg
 
   - name: Adalbert I the Victorious
     dynasty: Babenberg
@@ -31,7 +31,7 @@ list:
   - name: Adalbert II the Pious
     dynasty: Babenberg
     year: 1136–1137
-    image: 100px-Adalbert_der_And%C3%A4chtige.jpg
+    image: 100px-Adalbert_der_And_C3_A4chtige.jpg
 
   - name: Henry II Jasomirgott[3]
     dynasty: Babenberg
@@ -41,7 +41,7 @@ list:
   - name: Leopold V the Virtuous
     dynasty: Babenberg
     year: 1177–1194
-    image: 100px-Leopold_V%2C_Duke_of_Austria.jpg
+    image: 100px-Leopold_V_2C_Duke_of_Austria.jpg
 
   - name: Henry I the Elder
     dynasty: Babenberg (House of Mödling)
@@ -81,7 +81,7 @@ list:
   - name: Herman VI, Margrave of Baden
     dynasty: House of Baden
     year: 1248-1250
-    image: 120px-Herman_VI%2C_Margrave_of_Baden.jpg
+    image: 120px-Herman_VI_2C_Margrave_of_Baden.jpg
 
   - name: Frederick I, Margrave of Baden
     dynasty: House of Baden
@@ -211,7 +211,7 @@ list:
   - name: Maximilian II
     dynasty: Habsburg
     year: 1564–1576
-    image: 100px-Nicolas_Neufch%C3%A2tel_002.jpg
+    image: 100px-Nicolas_Neufch_C3_A2tel_002.jpg
 
   - name: Ferdinand II
     dynasty: Habsburg
@@ -271,7 +271,7 @@ list:
   - name: Francis II
     dynasty: Habsburg-Lorraine
     year: 1792–1835
-    image: 120px-Francis_II%2C_Holy_Roman_Emperor_at_age_25%2C_1792.png
+    image: 120px-Francis_II_2C_Holy_Roman_Emperor_at_age_25_2C_1792.png
 
   - name: Ferdinand I the Benevolent
     dynasty: Habsburg-Lorraine
