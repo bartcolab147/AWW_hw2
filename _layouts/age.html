@@ -20,7 +20,7 @@
         <div class="relative">
           {% for pin in page.map_data %}
           <a
-            href="{{ pin.link }}"
+            href="{{ pin.link }}.html"
             class="map-pin"
             style="top: calc({{ pin.label_top }}%); left: calc({{ pin.label_left }}%)"
           >
@@ -48,7 +48,7 @@
             <area
               shape="rect"
               data-coords="{{area.coords}}"
-              href="{{area.link}}"
+              href="{{area.link}}.html"
               alt="{{area.country}} {{page.year}}"
             />
             {% endfor %}

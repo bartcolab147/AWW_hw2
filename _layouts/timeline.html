@@ -25,7 +25,7 @@
               {% for age in site.data[page.short].ages %}
               <li>
                 <a
-                  href="../../y{{ age.year }}/{{ page.short }}/timeline/"
+                  href="../../y{{ age.year }}/{{ page.short }}/timeline.html"
                   class="sidebar-link"
                   >{{ age.name }}</a
                 >
@@ -65,7 +65,7 @@
           </summary>
           <p class="my-5">{{site.data[page.short].short_history}}</p>
           <p class="my-4">
-            <a href="../../rulers/{{page.short}}/" class="fancy-button">
+            <a href="../../rulers/{{page.short}}.html" class="fancy-button">
               List of rulers of {{site.data[page.short].country}}
             </a>
           </p>
