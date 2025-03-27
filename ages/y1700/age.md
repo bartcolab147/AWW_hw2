@@ -18,9 +18,9 @@ map_data:
     label_left: 47.5
     coords: "45,55,70,75"
   - country: Russia
-    link: ru/timeline
-    label_top: 32.5
-    label_left: 85
+    link: ru/timeline/
+    label_top: 37.5
+    label_left: 80
     coords: "80,10,100,60"
   - country: Prussia
     link: pr/timeline
